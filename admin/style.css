@@ -1,0 +1,78 @@
+{margin:0;padding:0}
+
+/* Calling Fonts */
+
+@font-face{
+	
+	font-family:"Lato";
+	
+	
+	src: url("font/lato.eot") format("eot"),
+	
+	url("font/lato.woff") format("woff"),
+	
+	
+	
+	url("font/lato.ttf") format("truetype"),
+	
+	
+	url("/font/lato.svg") format("svg");
+	
+	
+}
+
+/* Calling Fonts */
+
+
+
+.current{ color:navy; }
+
+.fix{ overflow:hidden;}
+
+
+.container{ max-width:1000px;}
+
+.one{
+	background:url(images/bg.home.png) no-repeat;
+	
+}
+
+
+.two{
+	
+	background:url(images/bg.home.png) no-repeat;
+}
+
+
+
+
+.menu a {
+    
+    
+	
+}
+.menu a:hover{text-decoration:none;}
+
+	p{
+		
+		text-align:justify;
+		font-size:14px;
+	}
+	
+	
+	
+	a:hover{
+		
+		text-decoration:none;
+		
+	}
+
+
+       
+            
+
+	body{
+		font-family:arial;
+	}
+	
+		.searchbar input{ border:0; padding:0; margin:0}

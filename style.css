@@ -1,0 +1,268 @@
+{margin:0;padding:0}
+
+
+    /*Calling Fonts*/
+	
+	@font-face{
+		
+		font-family:'OpenSans';
+		src: url('font/OpenSans-Regular.eot') format('eot'),
+		 url('font/OpenSans-Regular.woff') format('woff'),
+		  url('font/OpenSans-Regular.ttf') format('truetype'),
+		   url('font/OpenSans-Regular.svg') format('svg');
+		
+	}
+	
+	@font-face{
+		
+		font-family:'OpenSans-Light';
+		src: url('font/OpenSans-Light.eot') format('eot'),
+		 url('font/OpenSans-Light.woff') format('woff'),
+		  url('font/OpenSans-Light.ttf') format('truetype'),
+		   url('font/OpenSans-Light.svg') format('svg');
+		
+	}
+	
+	@font-face{
+		
+		font-family:'OpenSans-Semibold';
+		src: url('font/OpenSans-Semibold.eot') format('eot'),
+		 url('font/OpenSans-Semibold.woff') format('woff'),
+		  url('font/OpenSans-Semibold.ttf') format('truetype'),
+		   url('font/OpenSans-Semibold.svg') format('svg');
+		
+	}
+	
+	@font-face{
+		
+		font-family:'OpenSans-ExtraBold';
+		src: url('font/OpenSans-ExtraBold.eot') format('eot'),
+		 url('font/OpenSans-ExtraBold.woff') format('woff'),
+		  url('font/OpenSans-ExtraBold.ttf') format('truetype'),
+		   url('font/OpenSans-ExtraBold.svg') format('svg');
+		
+	}
+	
+	
+	
+    /*Calling Fonts*/
+	 
+	 
+	 
+	 
+	
+	 
+	 .ads img{
+		 
+		 width:100%;
+		 height:95%;
+	 }
+	 
+	 
+	 .section img {
+    height: 66px;
+    width: 100px;
+	 }
+}
+	 
+	p{
+		
+		text-align:justify;
+	}
+	
+	h1{
+    color: #6c6e69;
+    font: 30px/30px 'OpenSans-Light';
+    margin: 0 0 30px;
+    text-align: center;
+}
+
+
+h3 {
+    color: #ea8312;
+    font: bold 18px/24px 'OpenSans';
+    margin: 24px 0;
+	text-align:center;
+}
+
+
+.two h4 {
+    color: #a6a8a3;
+    font: bold 14px/24px 'OpenSans-ExtraBold';
+    margin: 0;
+    text-shadow: 0 1px #671515;
+}
+	
+	a{
+		display:block;
+		text-decoration:none;
+		padding:7px;	
+	}
+	
+	
+	.section a:hover{text-decoration:none;}
+	
+	body{
+		font-family:arial;
+		 background: url(images/body_bg3.jpg) repeat;
+	}
+	
+	.#one{background:url(images/bg-body.jpg) repeat-x;
+	background-color:#EDEFEA;
+	
+	
+	}
+	
+  .cart{
+    height: 40px;
+    margin-top: 15px;
+    background: url(images/cart.png) no-repeat;
+    background-size: 39px 28px;
+    background-position: center left;
+}
+	
+	.single_l {
+    margin-right: -12px;
+}
+
+.single_r {
+    margin-left: -12px;
+}
+
+	.sec1 {
+    padding: 0 5px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	.container{ max-width:960px; }
+	
+	
+	.main_menu ul li{
+		
+		padding-right: 50px;
+		padding-left: 45px;
+		}
+		
+		
+		
+		
+		.main_menu ul li a{
+			color:#78450d;
+			font:14px/24px 'OpenSans-Semibold'
+			
+		}
+		.main_menu ul li a:hover{
+			color:#fff;
+			
+		}
+
+		.searchbar input{
+			border:0;
+		margin:0;
+		padding:0;
+		}
+		
+		.searchbar input[type='submit']{ 
+		background:url(images/interface.png) no-repeat;
+		background-position:-91px 0;
+		padding:0 14px;
+		font: italic 16px/24px 'OpenSans';
+		
+		}
+		
+		.searchbar input[type='text']{ 
+		float:left;
+		color:#F4F3EE;
+		padding-left:5px;
+		font: italic 12px/24px 'OpenSans';
+		}
+		
+		
+		
+		.glider{
+			background:url(images/glider.jpg) no-repeat;
+			background-size:100% 100%;
+		}
+		
+		.climber{
+			background:url(images/climber.jpg) no-repeat;
+			background-size:100% 100%;
+		}
+		.jump{
+			background:url(images/jumping.jpg) no-repeat;
+			background-size:100% 100%;
+		}
+		
+		.link{ 
+		background:url(images/interface.png) no-repeat;
+		background-position:left bottom;
+		text-shadow: 0 1px #fbc78e;
+		text-align:center;
+		width:220px;
+		height: 42px;
+		font-style:italic;
+		}
+		
+		.content h1{font:bold 30px/60px 'OpenSans';color:#F8F9F6;}
+		
+		.r_content {background:url(images/bg-adboxInfo.jpg) no-repeat;
+		background-size:cover;
+		
+		}
+		
+		
+		.section{
+			background:url(images/bg-section.png) no-repeat;
+			background-position:center top;
+			
+		}
+		
+		.navy ul li a{ font-family:cursive;}
+		
+		
+		.two{ background:#000; }
+		
+		.two a {
+    color: teal;
+    font: 15px/24px 'OpenSans';
+    text-decoration: none;
+		}
+		
+		.two a:hover {
+    color: #bab9b8;
+    
+		}
+		
+		.fix{ overflow:hidden;}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
